@@ -1,0 +1,2 @@
+window.alert("storage recall sucessful!")
+//you have to use the "raw" page, and copy it into the blank in the bookmarklet. you can use any github raw file
